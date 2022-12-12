@@ -1,0 +1,16 @@
+#V2
+println!("hello world")
+let mut test: 32int = 5
+let mut test: int32 = 5
+let mut test = 5;
+println!(test);
+let test = 3;
+println!("{}" {test});
+println!("{}", {test});
+let mut test = 4
+let mut test = 4;
+test = 2
+println!("{}" {test});
+println!("{}", {test});
+let mut test: i32 = 128;
+println!("{}", {test});
